@@ -3,6 +3,10 @@ We split this page in two sections, Oracle and DVAE. Each section presents video
 
 
 ## Oracle
-<img src="https://rawcdn.githack.com/per-arne-thesis/dream/be86303aa5a7d709f09879866acce4c89b1d1c04/oracle_actor.mp4"/>
+<video width="320" height="240" controls>
+  <source src="./oracle_actor.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ## DVAE
