@@ -10,6 +10,11 @@ Agents does not have safety controls, meaning that the agent must learn this man
 
 https://user-images.githubusercontent.com/3774846/145258093-9fda0fcb-5f1b-4ee4-be33-dd74e2852473.mp4
 
+<video width="320" height="240" controls>
+  <source src="https://user-images.githubusercontent.com/3774846/145258093-9fda0fcb-5f1b-4ee4-be33-dd74e2852473.mp4"  type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ### Reconstruction Demo 1
 https://user-images.githubusercontent.com/3774846/145258116-7a92d74b-7d00-400d-af2a-68824fe9f587.mp4
 
